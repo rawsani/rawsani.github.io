@@ -63,7 +63,7 @@
         (li () (a ((href "./golalgo.html")) "Efficient Memory-Free Approach for Conway's Game of Life")))
       (br ())
       (p ((class "footer"))
-        (a ((href "mailto:rienzzo@proton.me")) "mail")
+        (a ((href "mailto:rawsani@proton.me")) "mail")
         " . "
         (a ((href "https://github.com/rawsani")) "github/rawsani")
         " . "
