@@ -39,11 +39,11 @@
 
 (define p
   (preset
-    "Rienzi"
+    "Rawšanī"
     `(body ()
       (div ((class "me")) (pre () ,me))
-      (h1 () "~ Rienzo")
-      (p () "Salute. Allow me to introduce myself : Rienzo, 19 y.o., studying in France in a scientific preparatory class. Being of Franco-Polish nationality, I speak French fluently and manage reasonably well in Polish. I also speak English, and am currently practicing Polish, Spanish and classical Arabic, with a little background in Russian.")
+      (h1 () "~ Rawšanī")
+      (p () "Salute. Allow me to introduce myself : Rawšanī, 19 y.o., studying in France in a scientific preparatory class. Being of Franco-Polish nationality, I speak French fluently and manage reasonably well in Polish. I also speak English, and am currently practicing Polish, Russian and classical Arabic, with a little background in Spanish.")
       (p () "An aspiring polymath, my interests span a broad spectrum, ranging from history to meta-programming, encompassing linguistics, arithmetic, " (a ((href "./books.html")) "literature") " &mdash; and particularly philosophy &mdash; computer science, and (geo)politics.")
       (p () "This website functions as an intersection of selected works, archives, thoughts, and miscellaneous notes &mdash; with the aim of organizing and sustaining lines of thought over time.")
       (p () "This site was written in Lisp, made possible by the syntactic similarity between HTML markup and s-expressions, allowing me to write " (a ((href "./html.ss")) "a converter") ".")
@@ -65,11 +65,11 @@
       (p ((class "footer"))
         (a ((href "mailto:rienzzo@proton.me")) "mail")
         " . "
-        (a ((href "https://github.com/rienz0")) "github/rienz0")
+        (a ((href "https://github.com/rawsani")) "github/rawsani")
         " . "
         (a ((href "https://github.com/lokasku")) "github/lokasku")
         " . "
-        (a ((href "https://x.com/rienzzzo")) "x/rienzzzo"))
+        (a ((href "https://x.com/rawsani_")) "x/rawsani_"))
       (pre ((class "geekcode")) 
         "GAT/CS/L/M/MU/P d+ s: a--- C++ UL++ L+++ W++ PS-- Y++ !t R--- !tv b+++ e h* !r !y")
       (br ())
