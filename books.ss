@@ -15,6 +15,9 @@
             (li () "Alexandre Dumas"
               (ul ()
                 (li () "Le comte de Monte-Cristo")))
+            (li () "Émile Zola"
+              (ul ()
+                (li () "L'Œuvre")))
             (li () "Proust"
               (ul ()
                 (li () "Un amour de Swann")))
@@ -112,11 +115,15 @@
                 (li () "Méditations métaphysiques *")))
             (li () "Kant"
               (ul ()
-                (li () "Critique de la raison pure")))
+                (li () "Critique de la raison pure ~")))
             (li () "Nietzsche"
               (ul ()
                 (li () "Vérité et mensonge au sens extra-moral *")
-                (li () "L'Antéchrist *")))
+                (li () "L'Antéchrist *")
+                (li () "Le Gai Savoir ~")
+                (li () "La généalogie de la morale")
+                (li () "Ecce Homo ~")
+                (li () "Ainsi parlait Zarathoustra")))
             (li () "Wittgenstein"
               (ul ()
                 (li () "Investigations philosophiques")
@@ -149,7 +156,12 @@
             (li () "Al-Ghazali"
               (ul ()
                 (li () "Lettre au disciple (Ayyuhā al-Walad) ~")
-                (li () "Début de la guidance (Bidāyat al-Hidāyah ) *")))
+                (li () "Début de la guidance (Bidāyat al-Hidāyah ) *")
+                (li () "Al-Munqidh min al-Dalāl ~")
+                (li () "Tahāfut al-Falāsifah")))
+            (li () "Ash-Shāfi'ī"
+              (ul ()
+                (li () "Rissala ~")))
             (li () "Al-Maqasid — Al-Nawawi ~")
             (li () "Rejecting Freedom and Progress — Javad Akbar ~")))
         (li () "Science Fiction"
@@ -181,7 +193,9 @@
                 (li () "Les amours ~")))
             (li () "Arthur Rimbaud"
               (ul ()
-                (li () "Les Cahiers de Douai *")))
+                (li () "Les Cahiers de Douai *")
+                (li () "Les Illuminations *")
+                (li () "Une saison en Enfer *")))
             (li () "Baudelaire"
               (ul ()
                 (li () "Les Paradis Artificiels")

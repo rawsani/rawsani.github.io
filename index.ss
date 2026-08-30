@@ -55,6 +55,8 @@
         (li () (a ((href "./links.html")) "Relevant links")))
       (h2 () "Papers")
       (ul ()
+        (li () (a ((href "./papers/lt.pdf")) "Lisp typé"))
+        (li () (a ((href "./papers/lct.pdf")) "λ-calcul typé homoïconique"))
         (li () (a ((href "./papers/plc.pdf")) "Prolégomènes au λ-calcul"))
         (li () (a ((href "./papers/dd.pdf")) "De Divino")))
       (h2 () "Posts")
